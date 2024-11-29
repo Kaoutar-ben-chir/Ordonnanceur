@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1711216626 source:c:\users\user\desktop\ordennanceur\fcfs.cpp
+	"structures.h"
+	"fonctions.h"
+
+1711211669 c:\users\user\desktop\ordennanceur\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713102828 c:\users\user\desktop\ordennanceur\fonctions.h
+	"structures.h"
+
+1713111952 source:c:\users\user\desktop\ordennanceur\fonctions.cpp
+	"fonctions.h"
+
+1713112487 source:c:\users\user\desktop\ordennanceur\main.cpp
+	"structures.h"
+	"fonctions.h"
+	"FCFS.h"
+	"SPF.h"
+	"Tourniquet.h"
+
+1713102828 c:\users\user\desktop\ordennanceur\spf.h
+
+1713102828 source:c:\users\user\desktop\ordennanceur\spf.cpp
+	"structures.h"
+	"fonctions.h"
+
+1713102828 c:\users\user\desktop\ordennanceur\fcfs.h
+
+1713101365 source:c:\users\user\desktop\ordennanceur\tourniquet.cpp
+	"structures.h"
+	"fonctions.h"
+
+1713102828 c:\users\user\desktop\ordennanceur\tourniquet.h
+
+1711216626 source:c:\users\user\desktop\ordonnanceur\fcfs.cpp
+	"structures.h"
+	"fonctions.h"
+
+1711211669 c:\users\user\desktop\ordonnanceur\structures.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713102828 c:\users\user\desktop\ordonnanceur\fonctions.h
+	"structures.h"
+
+1713112512 source:c:\users\user\desktop\ordonnanceur\fonctions.cpp
+	"fonctions.h"
+
+1713112487 source:c:\users\user\desktop\ordonnanceur\main.cpp
+	"structures.h"
+	"fonctions.h"
+	"FCFS.h"
+	"SPF.h"
+	"Tourniquet.h"
+
+1713102828 c:\users\user\desktop\ordonnanceur\fcfs.h
+
+1713102828 c:\users\user\desktop\ordonnanceur\spf.h
+
+1713102828 c:\users\user\desktop\ordonnanceur\tourniquet.h
+
+1713102828 source:c:\users\user\desktop\ordonnanceur\spf.cpp
+	"structures.h"
+	"fonctions.h"
+
+1713101365 source:c:\users\user\desktop\ordonnanceur\tourniquet.cpp
+	"structures.h"
+	"fonctions.h"
+
